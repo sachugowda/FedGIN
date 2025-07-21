@@ -137,6 +137,12 @@ You can change the organ, data ratio, GIN usage, and other hyperparameters there
    git add .
    git commit -m "Initial commit"
    ```
+// ... existing code ...
+
+## Acknowledgement
+
+This project uses the Global Intensity Non-linear (GIN) augmentation method from [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization/).
+
 
 3. Push to GitHub:
    ```bash
