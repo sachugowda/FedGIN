@@ -139,12 +139,10 @@ You can change the organ, data ratio, GIN usage, and other hyperparameters there
    ```
 // ... existing code ...
 
-## Acknowledgement
-
-This project uses the Global Intensity Non-linear (GIN) augmentation method from [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization/).
-
-
 3. Push to GitHub:
    ```bash
    git push -u origin main
    ``` 
+## Acknowledgement
+
+This project uses the Global Intensity Non-linear (GIN) augmentation method from [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization/).
