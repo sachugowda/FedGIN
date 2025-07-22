@@ -146,3 +146,10 @@ You can change the organ, data ratio, GIN usage, and other hyperparameters there
 ## Acknowledgement
 
 This project uses the Global Intensity Non-linear (GIN) augmentation method from [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization/).
+
+## 📖 Citation
+The method was developed at the [CIMORe](https://www.ntnu.edu/isb/mr-cancer) - Cancer Imaging and Multi-Omics Research Group at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. For detailed information about this method, please read our [MICCAI DeCaF2025 paper](https://www.page..com) 
+
+```bibtex
+...
+```
