@@ -151,17 +151,12 @@ This project uses the Global Intensity Non-linear (GIN) augmentation method from
 The method was developed at the [CIMORe](https://www.ntnu.edu/isb/mr-cancer) - Cancer Imaging and Multi-Omics Research Group at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. For detailed information about this method, please read our [MICCAI DeCaF2025 paper](https://link.springer.com/chapter/10.1007/978-3-032-05663-4_11) 
 
 ```bibtex
-@InProceedings{10.1007/978-3-032-05663-4_11,
-author="Nagaraju, Sachin Dudda
-and Moradi, Ashkan
-and Abrahamsen, Bendik Skarre
-and Elschot, Mattijs",
-title="FedGIN: Federated Learning with Dynamic Global Intensity Non-linear Augmentation for Organ Segmentation Using Multi-modal Images",
-booktitle="Bridging Regulatory Science and Medical Imaging Evaluation; and Distributed, Collaborative, and Federated Learning",
-year="2026",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="111--120"
+@inproceedings{nagaraju2025fedgin,
+  title={FedGIN: Federated Learning with Dynamic Global Intensity Non-linear Augmentation for Organ Segmentation Using Multi-modal Images},
+  author={Nagaraju, Sachin Dudda and Moradi, Ashkan and Abrahamsen, Bendik Skarre and Elschot, Mattijs},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={111--120},
+  year={2025},
+  organization={Springer}
 }
-
 ```
