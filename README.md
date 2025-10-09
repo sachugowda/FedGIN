@@ -148,8 +148,20 @@ You can change the organ, data ratio, GIN usage, and other hyperparameters there
 This project uses the Global Intensity Non-linear (GIN) augmentation method from [cheng-01037/Causality-Medical-Image-Domain-Generalization](https://github.com/cheng-01037/Causality-Medical-Image-Domain-Generalization/).
 
 ## 📖 Citation
-The method was developed at the [CIMORe](https://www.ntnu.edu/isb/mr-cancer) - Cancer Imaging and Multi-Omics Research Group at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. For detailed information about this method, please read our [MICCAI DeCaF2025 paper - Update soon]() 
+The method was developed at the [CIMORe](https://www.ntnu.edu/isb/mr-cancer) - Cancer Imaging and Multi-Omics Research Group at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. For detailed information about this method, please read our [MICCAI DeCaF2025 paper](https://link.springer.com/chapter/10.1007/978-3-032-05663-4_11) 
 
 ```bibtex
-...
+@InProceedings{10.1007/978-3-032-05663-4_11,
+author="Nagaraju, Sachin Dudda
+and Moradi, Ashkan
+and Abrahamsen, Bendik Skarre
+and Elschot, Mattijs",
+title="FedGIN: Federated Learning with Dynamic Global Intensity Non-linear Augmentation for Organ Segmentation Using Multi-modal Images",
+booktitle="Bridging Regulatory Science and Medical Imaging Evaluation; and Distributed, Collaborative, and Federated Learning",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="111--120"
+}
+
 ```
